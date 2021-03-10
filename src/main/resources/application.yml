@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/availability_track
+    username: availabilitytrackuser
+    password: availabilitytrackuser@123
+  jpa:
+    show-sql: true
